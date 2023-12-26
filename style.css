@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: #E6B9DE;
+    background-color: #8d5eca;
     flex-direction: column;
 }
 
@@ -34,8 +34,8 @@ body{
 
 
 .btn{
-    background: #4942E4;
-    color: white;
+    background: #efa0e3;
+    color: rgb(0, 0, 0);
     padding: 15px 32px;
     text-align: center;
     display: inline-block;
@@ -45,4 +45,10 @@ body{
     border: none;
     border-radius: 15px;
 }
+
+.gif img {
+    max-width: 100%;
+    height: auto;
+}
+
 
